@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This research aims to identify the primary drivers behind the adoption of plug-in electric vehicles (PEVs), assessing whether environmental concerns or market sentiment and practical considerations are more influential. The research analyzes variables such as CO2 emissions, EV range, charging infrastructure availability, electricity and gas prices, and industry indexes in the United States. Utilizing an Ordinary Least Squares (OLS) regression model, to evaluate the relationships between these factors and PEV sales. The research is unique in its comprehensive and multidimensional approach, integrating environmental, economic, and industry-specific variables to provide a holistic view of PEV adoption dynamics. The objectives are to determine the impact of CO2 emissions and other factors on PEV sales and to assess the influence of surface temperature changes on adoption rates. The findings will inform strategies to promote sustainable transportation and combat climate change by highlighting key motivators for PEV uptake.
